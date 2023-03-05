@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+}
+.page_title{
+    text-align: center;
+}
+ .links{
+    color: red;
+ }
+
+li{
+    color: red;
+    font-size: large;
+    
+}
+img{
+    height: auto;
+    width: 450px;
+    
+}
